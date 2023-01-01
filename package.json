@@ -41,7 +41,7 @@
     "package-win": "electron-packager . angular-electron --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Router Patch App\""  
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.800.0",
+    "@angular-devkit/build-angular": "15.0.4",
     "@angular/cli": "8.0.1",
     "@angular/common": "8.0.0",
     "@angular/compiler": "8.0.0",
